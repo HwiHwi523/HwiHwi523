@@ -14,6 +14,9 @@
 ### My Solved.ac 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwihwi)](https://solved.ac/hwihwi/)
 
+### My LeetCode 🏆
+![](https://leetcard.jacoblin.cool/hwihwi?theme=unicorn)
+
 ### My Stats ✨
 ![HwiHwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwiHwi523&show_icons=true&theme=merko)
 
