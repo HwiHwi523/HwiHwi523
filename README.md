@@ -11,9 +11,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 
-### My LeetCode & Solved.ac 🏆
-![](https://leetcard.jacoblin.cool/hwihwi?theme=unicorn)
+### My Solved.ac & LeetCode 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwihwi)](https://solved.ac/hwihwi/)
+![](https://leetcard.jacoblin.cool/hwihwi?theme=unicorn)
 
 ### My Stats ✨
 ![HwiHwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwiHwi523&show_icons=true&theme=merko)
